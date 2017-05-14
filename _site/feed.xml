@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dotX</title>
+    <description>A free Jekyll theme for download</description>
+    <link>http://nandomoreira.me/dotX/</link>
+    <atom:link href="http://nandomoreira.me/dotX/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 May 2017 10:37:21 +0300</pubDate>
+    <lastBuildDate>Sun, 14 May 2017 10:37:21 +0300</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Was gibt es bereits? Erforschen von existierenden Applikationen | Sitzung 1</title>
+        <description>&lt;p&gt;Die Teilnehmenden des Seminars “Neue Technologien in der Raumforschung” an der Universität Kassel sichteten in der ersten Sitzung bestehende, frei verfügbare Applikationen. In drei Gruppen wurden diese auf die Handhabung untersucht.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Apr 2017 11:58:35 -0200</pubDate>
+        <link>http://nandomoreira.me/dotX/1. Sitzung</link>
+        <guid isPermaLink="true">http://nandomoreira.me/dotX/1. Sitzung</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
