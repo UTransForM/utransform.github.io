@@ -5,7 +5,7 @@ date: 2017-04-27
 permalink: /Blog/2017/04/27/Seminar-02/
 ---
 
-Zu Beginn des Semesters stand die Auseinandersetzung mit bestehenden Applikationen zur mobilen Erhebung räumlicher Daten. Im Rahmen der zweiten Sitzung wurden die Applikationen GeoODK Collect, EpiCollect und SW Maps getestet. Dabei untersuchten die Studierenden, wie sich der Aufbau der Apps unterscheidet, was in der Anwendung gut funktioniert und welche Probleme auftreten.
+Zu Beginn des Semesters stand die Auseinandersetzung mit bestehenden Applikationen zur mobilen Erhebung räumlicher Daten. Im Rahmen der zweiten Sitzung wurden die Applikationen *GeoODK Collect*, *EpiCollect* und *SW Maps* getestet. Dabei untersuchten die Studierenden, wie sich der Aufbau der Apps unterscheidet, was in der Anwendung gut funktioniert und welche Probleme auftreten.
 
 ## Die Kartierung des Universitätsplatzes im Umbruch
 
