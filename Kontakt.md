@@ -5,10 +5,15 @@ subtitle:
 permalink: /Kontakt/
 ---
 
-Maren van der Meer (FG Stadt- und Regionalplanung)
+UTransForm
 
-Fran Meissner (FG Stadt- und Regionalsoziologie)
+Mail: <a href="mailto:utransform@uni-kassel.de">utransform@uni-kassel.de<a/>
 
-Moritz Merten (FG Stadt- und Regionalsoziologie)
+Universität Kassel  
+Fachbereich 06
 
-Daniel Münderlein (FG Landschaftsplanung/Landnutzung)
+Insitut für Urbane Entwicklungen  
+Gottschalkstraße 22  
+34127 Kassel  
+
+<a href="https://www.uni-kassel.de/fb06/">https://www.uni-kassel.de/fb06/<a/>
