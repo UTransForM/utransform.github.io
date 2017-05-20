@@ -552,7 +552,7 @@ body.home-intro .intro {
   padding: 0 2em;
   text-align: center;
   color: #d9d9d9;
-  background: #33b15d;
+  background-color: #51af9f;
   overflow: hidden;
 }
 
@@ -622,7 +622,7 @@ body.home-intro .intro {
   top: 20px;
   height: 54px;
   width: 54px;
-  background-color: #3cc76a;
+  background-color: #3d9b8b;
   border-radius: 50%;
   /* image replacement */
   overflow: hidden;
@@ -817,7 +817,7 @@ body.home-intro .intro {
   margin-bottom: 1.7em;
   font-size: 1.3rem;
   font-weight: 800;
-  color: #34b55f;
+  color: #3d9b8b;
   text-transform: uppercase;
 }
 .navbar h2::after {

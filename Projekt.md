@@ -5,4 +5,4 @@ subtitle:
 permalink: /Projekt/
 ---
 
-Dieses Forschungsprojekt läuft super.
+Weitere Informationen folgen.

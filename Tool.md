@@ -5,4 +5,4 @@ subtitle:
 permalink: /Tool/
 ---
 
-Dieses Forschungsprojekt läuft super.
+Weitere Informationen folgen.
