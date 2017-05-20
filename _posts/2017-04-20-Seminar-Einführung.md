@@ -2,7 +2,7 @@
 layout: post
 title: Seminar | Einführung
 date: 2017-04-20
-permalink: /blog/2017/04/20/Seminar-01/
+permalink: /Blog/2017/04/20/Seminar-01/
 ---
 
 In der einführenden Veranstaltung des Seminars wurde der grundlegende Ablauf und die Ziele des Moduls vorgestellt. Im Laufe eines Semesters werden die Teilnehmenden die Verwendung neuer Technologien in der Raumforschung diskutieren und die Bestandteile einer Applikation kennenlernen. Dabei konnten die Studierenden in der ersten Sitzung ihre Gedanken zu dem Thema teilen. Diese ersten, assoziativen Ideen zeigten bereits die Bandbreite an Ansprüchen an eine für ihre Forschungen und Projekte verwendbare Applikation. Die Studierenden zeigten auf, dass nicht nur verschiedene Inhalte kartiert würden, sondern auch, dass grundlegende Bedenken hinsichtlich Nutzbarkeit und Datenschutz vorhanden seien.
