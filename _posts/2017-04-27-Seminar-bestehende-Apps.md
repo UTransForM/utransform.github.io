@@ -48,7 +48,7 @@ Die Studierenden konnten die Kartierung in dem vorgeschlagenen Umfang nicht durc
 
 ![Studierende diskutieren über die Handhabung der App]({{ https://utransform.github.io/blog/2017/04/27/Seminar-bestehende-Apps.html }}/assets/images/IMG_2412.jpg)
 
-##Fazit
+## Fazit
 
 Die getesteten Applikationen bieten einen ersten Einblick in existierende Möglichkeiten zur mobilen Erhebung georeferenzierter Daten. Sie sind so eine gute Grundlage für die weitere Auseinandersetzung mit mobiler Datenerhebung und letztendlich der Formulierung eigener Ansprüche an eine Kartierungs-App und deren Entwicklung.
 Sie zeigen verschiedene Schwachstellen auf, stellen allerdings auch bereits viele hilfreiche Komponenten zur Verfügung. Auch die Thematik des Datenschutzes, welches bereits in der ersten Sitzung angesprochen wurde, wurde anhand der getesteten Applikationen diskutiert. Zum Teil wurden beispielsweise Daten über die NutzerInnen aufgenommen, die nicht unterbunden werden konnten.
