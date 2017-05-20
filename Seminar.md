@@ -10,3 +10,5 @@ Frei nach dem Motto: 'Weg mit dem Klemmbrett! Her mit dem Tablet!' werden wir im
 Ziel ist es, in zwei Semestern ein Mapping-Tool zur georeferenzierten Datenerhebung für die Universität Kassel zu entwickeln. Dieses Seminar ist also ein Begleitseminar für ein Projekt, das im Wintersemester 2017/18 (Neue Technologien in der Raumforschung II) stattfinden wird.
 
 Es sind keinerlei technischen Vorkenntnisse nötig, Interesse an digitalen Tools und die Motivation sich neue technische Fähigkeiten anzueignen wird allerdings erwartet.
+
+Das aktuelle Handbuch zu dem Seminar ist [hier als Download]({{ site.url }}/assets/downloads/Handbuch.pdf) verfügbar.
