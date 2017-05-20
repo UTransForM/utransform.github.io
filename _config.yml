@@ -26,7 +26,11 @@ baseurl: ""
 # baseurl: ""
 
 # Author settings
-
+author:
+  name      : UTransForM
+  email     : utransform@uni-kassel.de
+  url       : https://utransform.github.io/
+  github    : http://github.com/utransform
 
 # google_analytics: UA-52446115-1
 
