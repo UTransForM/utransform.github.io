@@ -11,4 +11,4 @@ Ziel ist es, in zwei Semestern ein Mapping-Tool zur georeferenzierten Datenerheb
 
 Es sind keinerlei technischen Vorkenntnisse nötig, Interesse an digitalen Tools und die Motivation sich neue technische Fähigkeiten anzueignen wird allerdings erwartet.
 
-Das aktuelle Handbuch zu dem Seminar ist [hier als Download]({{ site.url }}/assets/downloads/Handbuch.pdf) verfügbar.
+Das aktuelle Handbuch zu dem Seminar ist [hier als Download]({{ site.url }}/assets/downloads/Handbuch.pdf) verfügbar. Unter <a href="{{ '/Blog'}}">Blog</a> werden Updates aus dem Seminar veröffentlicht.
