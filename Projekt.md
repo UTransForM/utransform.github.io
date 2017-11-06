@@ -13,6 +13,6 @@ Als Expert*innen für die App GeoODK werden wir außerdem Tutorials und Lehrmate
 
 <b>Ziele</b>
 
-<li>Entwicklung und Durchführung eines eigenen Forschungsprojektes zu einem selbstgewählten Thema. Die Datenerhebung soll mit GeoODK erfolgen (einzeln oder in Kleingruppen).</li>
-<li> Erstellung von Materialien (z.B. Anleitungen), um anderen Lehrenden, Forschenden und Studierenden den Zugang zum digitalen Kartieren zu erleichtern. Bewerbung der App GeoODK, um seine Nutzung am Fachbereich zu verbreiten (in Arbeitsgruppen).</li>
+<ol><li>Entwicklung und Durchführung eines eigenen Forschungsprojektes zu einem selbstgewählten Thema. Die Datenerhebung soll mit GeoODK erfolgen (einzeln oder in Kleingruppen).</li>
+<li> Erstellung von Materialien (z.B. Anleitungen), um anderen Lehrenden, Forschenden und Studierenden den Zugang zum digitalen Kartieren zu erleichtern. Bewerbung der App GeoODK, um seine Nutzung am Fachbereich zu verbreiten (in Arbeitsgruppen).</li></ol>
 
