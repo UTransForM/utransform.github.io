@@ -14,4 +14,4 @@ Das interdisziplinäre Team setzt sich aus MitarbeiterInnen der Fachgebiete *Sta
 **Maren van der Meer** <a href="mailto:vandermeer@asl.uni-kassel.de">vandermeer@asl.uni-kassel.de</a>  <small>Fachgebiet Stadt- und Regionalplanung</small>
 
 
-**TutorInnen:** Jens Eligehausen <small>GIS Koordination</small>  Michael Velimirov <small>App und IT</small>  Anne Freitag <small>Online und Social-Media-Koordination</small>
+**TutorInnen:** Jens Eligehausen <small>GIS Koordination</small> * Michael Velimirov <small>App und IT</small> * Anne Freitag <small>Online und Social-Media-Koordination</small>
