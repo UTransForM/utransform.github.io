@@ -5,6 +5,16 @@ subtitle: GeoODK -Alles mit einem Klick und auf einen Blick-
 permalink: /Tool/
 ---
 
+......................................................
+
+[>>>> Dein direkter Weg zum ODK_Aggregate Server der Uni Kassel](https://vm193-139.its.uni-kassel.de/ODKAggregate/)
+
+[>>>> Hier findet ihr das Wiki zur App](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)
+
+[>>>> GeoODK Collect via Google Play](https://play.google.com/store/apps/details?id=com.geoodk.collect.android&hl=de)
+
+......................................................
+
 **Zettelchaos?! War gestern!**
 
 Wer kennt es nicht? Tagelang wird über dem Forschungsdesign gebrütet, die Fragebögen werden erstellt, ausgedruckt und ab geht’s mit dem Klemmbrett und einer Menge Motivation in das Untersuchungsgebiet. Dort angekommen wird fleißig befragt, beobachtet, notiert und geforscht. Zack… ein Windstoß und die Fragebögen lernen fliegen, der Stift fällt auf den Boden und ist unauffindbar- das Chaos beginnt. 
@@ -14,7 +24,7 @@ Wer kennt es nicht? Tagelang wird über dem Forschungsdesign gebrütet, die Frag
 Die von uns genutzte Android App „GeoODK Collect“* erleichtert das mobile Erheben, Zusammenführen und Exportieren von (georefferenzierten) Daten; sie wurde an der University of Washington entwickelt, um im planerischen Bereich oder auch im Katastrophenmanagement eine Software zu designen, die den sich ständig ändernden Ansprüchen und Anforderungen dieser Gebiete entspricht. 
 GeoODK Collect verfügt über diverse Möglichkeiten diese Daten (standortbasiert) aufzunehmen; auch die klassischen Fragebögen/Forms,  lassen sich hiermit gut kombinieren und implementieren. Die App, installiert auf Tablet oder Smartphone, ergänzt bzw. ersetzt Klemmbrett, Papier und Stift.Der Einsatz solch einer App lässt dem Forscher mehr Zeit für Auswertung und Analyse der Daten sowie die Beantwortung der Forschungsfrage, da die langwierige Transkription oder Digitalisierung der erhobenen Daten wegfällt. 
 
-**Im aktuellen Wintersemester 17/18 sind im Rahmen des Projekts ausführliche Tutorials zur App entstanden**
+**Im aktuellen Wintersemester 17/18 sind im Rahmen des Projekts ausführliche Tutorials zur App entstanden.**
 
 [>>>> Hier geht es zu den Tutorials](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)
 
