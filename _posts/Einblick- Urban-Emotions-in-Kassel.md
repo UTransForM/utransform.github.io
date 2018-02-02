@@ -17,9 +17,15 @@ Wir entschieden uns für eine Strecke, welche einen möglichst breiten Abschnitt
 
 <small>Quelle: Google Maps</small> 
 
-Um 14Uhr wurden Walaa und Mamoun verkabelt und an die Sensoren angeschlossen. Via GPX-Track auf dem Handy konnten sie die Strecke auf ihrem Handy verfolgen. 
+Um 14Uhr wurden Walaa und Mamoun verkabelt und an die Sensoren angeschlossen. Via GPX-Track auf dem Handy konnten sie die Strecke auf ihrem Handy verfolgen. Jeweils mit einem Abstand von etwa 5 Minuten wurden die Fahrer auf die Strecke geschickt, damit sie sich nicht aneinenander orientieren können. 
 
 ![Vorbereitung](https://utransform.github.io/assets/images/Start_1.png "Verkabeln und Gerätecheck") 
+
+<small>Fotos: D. Münderlein</small> 
+
+Angedacht waren rund 60 Minuten; ein Testfahrer war jedoch schon nach 45 Minuten wieder da und ein anderer benötigte 1 1/2h. Hioer seht ihr ein paar Papparazzifotos; geschossen an der Stadthalle und an der neuen Mensa. 
+
+![Währenddessen](https://utransform.github.io/assets/images/Ende_1.png "Unterwegs") 
 
 
 
