@@ -14,6 +14,7 @@ Die von uns genutzte Android App „GeoODK Collect“* erleichtert das mobile Er
 GeoODK Collect verfügt über diverse Möglichkeiten diese Daten (standortbasiert) aufzunehmen; auch die klassischen Fragebögen/Forms,  lassen sich hiermit gut kombinieren und implementieren. Die App, installiert auf Tablet oder Smartphone, ergänzt bzw. ersetzt Klemmbrett, Papier und Stift.Der Einsatz solch einer App lässt dem Forscher mehr Zeit für Auswertung und Analyse der Daten sowie die Beantwortung der Forschungsfrage, da die langwierige Transkription oder Digitalisierung der erhobenen Daten wegfällt. 
 
 **WICHTIG**
+
 Im aktuellen Wintersemester 17/18 sind im Rahmen des Projekts ausführliche **Tutorials** zur App entstanden
 
 [Hier geht es zu den Tutorials](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)
@@ -22,7 +23,7 @@ Im Sommersemester 2017 ließen Tests, verschiedener Datenerhebungs-Apps, Stärke
 
 Ähnlich zur analogen Erhebungsmethode muss der Fragebogen/Form gewissenhaft erstellt werden; diese Datei wird darauf in die App geladen bzw. über einen Server zur Verfügung gestellt und die Teilnehmer eine Erhebung können diese auf ihr Gerät herunterladen. Das Erheben der Daten im Gelände kann offline erfolgen, was den Nutzer unabhängig von der mobilen Datenverbindunt macht. Zudem können gleichzeitig diverse Nutzer auf unterschiedlichen Geräten an einem Projekt arbeiten. Die gewonnenen Datensätze lassen sich, nach Einrichtung eines solchen, auf einem eigenen (unternehmensunabhängigem) Server speichern und runterladen. Dies ermöglicht einen datenschutzbewussten Umgang mit den Erhebungsdaten. Werden die Daten von einer Einzelperson erhoben, ist es nicht nötig die Daten über das Internet zu schicken. Hier können die ausgegebenen Dateien direkt in GIS eingespeist werden. 
 
-* dezeit nur für Android verfügbar, eine iOS Version ist nicht in Planung (Stand Februar 2018)
+* derzeit nur für Android verfügbar, eine iOS Version ist nicht in Planung (Stand Februar 2018)
 
 
 
