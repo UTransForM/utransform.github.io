@@ -6,8 +6,6 @@ permalink: /Projekt/
 ---
 # Was machen wir eigentlich? 
 
-[![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo) [![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/) [![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
-
 Update: 02.02.2018
 
 Georeferenzierte Daten zu erheben (Kartieren) ist wichtiger Bestandteil stadt- und landschaftsplanerischer Praxis. In diesem Projekt arbeiten wir an der Digitalisierung dieser Praxis. 
@@ -27,4 +25,6 @@ Gerade bei umfangreichen Haus- und Abschlussarbeiten bietet GeoODK eine echte Ar
 
 <ol><li>Entwicklung und Durchführung eines eigenen Forschungsprojektes zu einem selbstgewählten Thema. Die Datenerhebung soll mit GeoODK erfolgen (einzeln oder in Kleingruppen).</li>
 <li> Erstellung von Materialien (z.B. Anleitungen), um anderen Lehrenden, Forschenden und Studierenden den Zugang zum digitalen Kartieren zu erleichtern. Bewerbung der App GeoODK, um seine Nutzung am Fachbereich zu verbreiten.</li></ol>
+
+[![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo) [![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/) [![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
 
