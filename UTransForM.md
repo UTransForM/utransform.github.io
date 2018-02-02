@@ -23,3 +23,5 @@ Für die forschende Lehre der Universität Kassel am Fachbereich 06 (Architektur
 Das Vorhaben wird  von der zentralen Lehrförderung der Universität Kassel gefördert.
 
 Hier sind Informationen zum <a href="{{ '/Seminar'}}">Seminar</a>, <a href="{{ '/Projekt'}}">Projekt</a>, <a href="{{ '/Team'}}">Team</a> und <a href="{{ '/Kontakt'}}">Kontaktdaten</a> zu finden. Aktuelle Berichte werden unter <a href="{{ '/Blog'}}">Blog</a> veröffentlicht. 
+
+[![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo) [![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/) [![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
