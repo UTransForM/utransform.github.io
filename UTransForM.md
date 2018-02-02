@@ -7,9 +7,11 @@ permalink: /UTransForM/
 
 Letztes Update: 02.02.2018
 
-**NEU**  [Hier geht es zum Mapping Tool der Universität Kassel](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)  **NEU** 
+**NEU**  [Hier geht es zum Wiki der App GeoODK](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)  **NEU** 
 
 **NEU** [Dein direkter Weg zum ODK_Aggregate Server der Uni Kassel](https://vm193-139.its.uni-kassel.de/ODKAggregate/)  **NEU**
+
+**NEU** [GeoODK Collect via Google Play] (https://play.google.com/store/apps/details?id=com.geoodk.collect.android&hl=de) **NEU**
 
 Die zunehmende Technologisierung der raumbezogenen Forschung muss sich auch in der Lehre und insbesondere in der forschenden Lehre wiederspiegeln.
 
