@@ -13,7 +13,9 @@ Statt mit Stift und Klemmbrett, werden wir eigene Daten mithilfe mobiler Endger�
 
 Wir, die Studierenden, haben innerhalb des Projekts  eigene Forschungsfragen- und designs entwickelt, welche wir mithilfe der App durchgeführt und ausgewertet haben. Die zahlreichen Ideen und Einsatzmöglichkeiten werden ab dem 06.02.2018 im Rahmen des Rundgangs den anderen Studierenden des Fachbereichs und der Uni vorgestellt. 
 
-Einen kleinen Einblick in den Projektalltag, sowie zahlreiche Infos rund um das Thema digitale Datenerhebung findet ihr in unserem [Blog](https://utransform.github.io/Blog)
+![Urban Emotions Versuch in Kassel](https://utransform.github.io/assets/images/urban_emo_1.JPG  "Versuchskaninchen auf dem Weg")
+
+Einen kleinen Einblick in den Projektalltag, sowie zahlreiche Infos rund um das Thema digitale Datenerhebung findet ihr in unserem [Blog](https://utransform.github.io/Blog). Was Herzfrequenz und Angstschweiß auf Kassels Straßen mit mobiler Datenerhebung und dem Einsatz mobiler Endgeräte zu tun hat... das erfahrt ihr dort auch! Der 16.01.2018 war ein kleines Highlight des Projekts. Neugierig geworden?
 
 Gerade bei umfangreichen Haus- und Abschlussarbeiten bietet GeoODK eine echte Arbeitsersparnis in Sachen Datenaufnahme und Verarbeitung. So lässt die Nutzung der App den Forschenden mehr Zeit sich intensiv mit dem gewonnenen Material auseinanderzusetzen. Zudem wurde ein eigener Uni ODK-Aggregate Server für die sichere Aufbewahrung von erhobenen Daten erstellt. So können Zugangsberichtigte (Studenten und Lehrende der Universität Kassel) ihre Untersuchungen datenschutzgerecht speichern. Damit auch Einsteigern der Anfang mit GeoODK Collect gelingt, haben wir ein eigenes Wiki zur App erstellt. Ab sofort findet ihr es im Netz.
 
