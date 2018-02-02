@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Einblick | Coffee-around-campus
+title: Einblick | Coffee around campus
 date: 2017-10-24
 permalink: /Blog/2017/10/24/Einblick-04/
 ---
