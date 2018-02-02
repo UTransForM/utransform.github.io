@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tool
-subtitle: GeoODK -mit einemKlick, alles auf einen Blick-
+subtitle: GeoODK -Alles mit einem Klick und auf einen Blick-
 permalink: /Tool/
 ---
 
