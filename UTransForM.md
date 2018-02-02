@@ -9,8 +9,9 @@ Letztes Update: 02.02.2018
 
 **NEU**  [Hier geht es zum Mapping Tool der Universität Kassel](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)  **NEU** 
 
+**NEU** [>>>> Dein direkter Weg zum ODK_Aggregate Server der Uni Kassel](https://vm193-139.its.uni-kassel.de/ODKAggregate/)  **NEU**
 
-Eine zunehmende Technologisierung der raumbezogenen Forschung muss sich auch in der Lehre und insbesondere in der forschenden Lehre wiederspiegeln.
+Die zunehmende Technologisierung der raumbezogenen Forschung muss sich auch in der Lehre und insbesondere in der forschenden Lehre wiederspiegeln.
 
 Das Sammeln, der Umgang und die Zusammenführung von komplexen Daten ist ein immer wichtigeres Lernziel in unterschiedlichen wissenschaftlichen Disziplinen und auch in der räumlichen Planung stellt uns dies vor immer neue Herausforderungen.
 
