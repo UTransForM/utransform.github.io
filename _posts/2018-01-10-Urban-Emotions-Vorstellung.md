@@ -7,7 +7,9 @@ permalink: /Blog/2018/01/10/Einblick-06/
 
 # Sensoring, Citizens und Social Media
  
-Mit dem Besuch von Dr. Peter Zeile vom Karlsruher Institute of Technology steht bald ein Highlight des Semesters an. Schon am Anfang des aktuellen Semesters als auch als Einführung in das Seminar im Sommersemester, schauten wir einen Beitrag über die emotionale Vermessung der Stadt. Soweit, so abstrakt- wie kann man Gefühle im urbanen Kontext sichtbar und nutzbar machen? 
+Smartwacthes, Fitnesstracker und GPS Geräte- heute sind diese Dinge für viele Menschen Alltag. Der Puls wird gemessen; die körperliche Aktivität hinterlegt und Laufwege getrackt. Diese Datenmassen (Stichwort Big Data) sind allerdings in Deutschland für Forscher wenig zugänglich. Doch Dr.-Ing. Peter Zeile nutzt eigene Sensoren und Tracker um Erkenntnisse über die emotionale Wahrnehmung von Stadträumen zu gewinnen.
+
+Schon am Anfang des aktuellen Semesters als auch als Einführung in das Seminar im Sommersemester, schauten wir einen Beitrag über die emotionale Vermessung der Stadt. Soweit, so abstrakt- wie kann man Gefühle im urbanen Kontext sichtbar und nutzbar machen? 
 
 [Link zum Arte Beitrag auf Youtube](https://www.youtube.com/watch?v=bYtKmThCUAE)
 
