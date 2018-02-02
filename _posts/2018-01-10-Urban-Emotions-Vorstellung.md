@@ -15,9 +15,9 @@ Schon am Anfang des aktuellen Semesters als auch als Einführung in das Seminar 
 
 Dr.-Ing. Peter Zeile beschäftigt sich im Rahmen des Projekts "Urban Emotions" mit dieser Fragestellung. Durch den Einsatz von Humansensoren (Messung der Herzfrequenz, der elektrischen Hautleitfähigkeit ~ Angstschweiß) kann der Stresspegel eines Menschen abgelesen werden und so eine Aussage über Angsträume bzw. besonders stressige Bereiche getroffen werden. Zur genauen Aufzeichnung der Strecke wird ein externer GPS Sender vom Probanden mitgeführt; ebenso filmt eine Outdoorkamera vor der Brust die gesamte Strecke, um besondere Ausschläge im Stresspegel nachvollziehen zu können. Die gewonnenen Daten werden am PC zusammengeführt und in GIS übertragen. So entstehen bspw. "Stress Heatmaps" einer Stadt. Interessante und neue Sichtweisen auf die Stadt entstehen, welche ergänzend in die klassische Stadt- und Raumplanung einfließen können. 
 
-Am 16.01.2018 wird Dr. Zeile an der Uni Kassel einen Gastvortrag halten und sein Projekt vorstellen. Im Vorfeld gehen zwei Freiwillige  aus unserem Projekt auf die Kasseler Straßen und werden sichtbar machen, wie sich ein Radfahrer im Straßenverkehr von Kassel fühlt. 
+[Feel the City- Artikel forum raumentwicklung 02/2017 ](http://zeile.net/wp-content/uploads/2017/10/ARE_forum_2_17_Zeile_d.pdf)
 
-Kommt vorbei!
+Am 16.01.2018 wird Dr. Zeile an der Uni Kassel einen Gastvortrag halten und sein Projekt vorstellen. Im Vorfeld gehen zwei Freiwillige  aus unserem Projekt auf die Kasseler Straßen und werden sichtbar machen, wie sich ein Radfahrer im Straßenverkehr fühlt. Kommt vorbei!
 
 ![Einladung](https://utransform.github.io/assets/images/einladung_zeile.png "Einladung zum Vortrag")
 
