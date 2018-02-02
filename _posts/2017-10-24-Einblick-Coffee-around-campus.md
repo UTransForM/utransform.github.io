@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Einblick | Coffee-around-campus
-date: 2018-02-02
-permalink: /Blog/2018/02/02/Einblick-04/
+date: 2017-10-24
+permalink: /Blog/2017/10/24/Einblick-04/
 ---
 # Käffchen gefällig? Frischer Start in das neue Projekt...
 
