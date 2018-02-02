@@ -20,3 +20,5 @@ Dem gegenüber wird bei der Nutzung von neuen Technologien in der Raumforschung 
 ![Verschiedene Angebote an Applikationen werden im Feldversuch getestet]({{ https://utransform.github.io/blog/2017/04/21/Seminar-01.html }}/assets/images/IMG_2408.jpg)
 
 <small>Bilder: Daniel Münderlein, UTransForM</small>
+
+[![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo) [![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/) [![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
