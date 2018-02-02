@@ -20,13 +20,6 @@ Nun wisst ihr, wo es Kaffee gibt- wir konnten uns mit der App auseinandersetzen 
 [![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](ttps://www.facebook.com/utransform.geo)
 
 
-![facebook]({https://www.facebook.com/utransform.geo}https://utransform.github.io/assets/images/icon_fb_50.png)
-
-<a href="https://www.facebook.com/utransform.geo"><img src="https://utransform.github.io/assets/images/icon_fb_50.pngg" alt="facebook"/</a> 
-  
-![Facebook](https://utransform.github.io/assets/images/icon_fb_50.png "Käffchen gefällig?")
-
-![fb]({{https://www.facebook.com/utransform.geo}}/assets/images/)
 
 
 
