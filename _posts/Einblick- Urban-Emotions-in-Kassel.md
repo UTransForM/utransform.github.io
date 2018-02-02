@@ -13,9 +13,15 @@ Mit dem Besuch von Peter Zeile aus Karlsruhe am 16.01.2018 und seinen mitgebrach
 Als Vorbereitung musste im Vorfeld eine möglichst repräsentative Rundstrecke durch Kassel gewählt werden- die zeitlichen Vorgaben lagen bei gut einer Stunde und in normalem Tempo schaffbar. Bis zum Herkules hoch und zurück fiel damit schon mal aus. ;-) 
 Wir entschieden uns für eine Strecke, welche einen möglichst breiten Abschnitt von Kassel zeigt. Hauptverkehrsstraßen, Steigungen, Wohngebiete, Tramschienen, Parks und Nebenstraßen. 
 
-![Strecke](https://utransform.github.io/assets/images/strecke_1.png "Einladung zum Vortrag") 
+![Strecke](https://utransform.github.io/assets/images/strecke_1.png "Streckenführung") 
 
 <small>Quelle: Google Maps</small> 
+
+Um 14Uhr wurden Walaa und Mamoun verkabelt und an die Sensoren angeschlossen. Via GPX-Track auf dem Handy konnten sie die Strecke auf ihrem Handy verfolgen. 
+
+![Vorbereitung](https://utransform.github.io/assets/images/Start_1.png "Verkabeln und Gerätecheck") 
+
+
 
 
 
