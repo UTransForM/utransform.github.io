@@ -17,7 +17,7 @@ Unter "Einblick" lassen wir euch an einigen interessanten Sitzungen des aktuelle
 Nun wisst ihr, wo es Kaffee gibt- wir konnten uns mit der App auseinandersetzen und uns über Probleme, Stärken und Schwächen der App austauschen. Bis demnächst!
 
 
-[![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo)[![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/)[![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
+[![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo) [![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/) [![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
 
 
 
