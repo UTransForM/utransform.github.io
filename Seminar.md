@@ -9,6 +9,8 @@ Frei nach dem Motto: 'Weg mit dem Klemmbrett! Her mit dem Tablet!' wurden im Som
 
 ![Coding](https://utransform.github.io/assets/images/seminar_1.jpg "Coding für Anfänger")
 
+<small> Foto: D. Münerlein</small>
+
 So wurden praktische und theoretische Fragen zum Einsatz neuer Technologien diskutiert und zusammen überlegt, wie man vorhandene Tools verbessern könnte. Durch eine Kooperation mit einem Informatiker wwurden im Seminar grundlegende Android/Java-Programmierkompetenzen vermittelt. Schnell stellte sich heraus, dass das nötige Fachwissen (um die Apps durch Coden an unsere Bedürfnisse anzupassen) über Jahre erworben und vertieft werden müsste; deshalb konzentrierten wir uns auf die GeoODK App,um diese durch Tutorials für alle Studierenden nutzbar zu machen.
 
 
