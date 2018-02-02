@@ -54,3 +54,5 @@ Die getesteten Applikationen bieten einen ersten Einblick in existierende Mögli
 Sie zeigen verschiedene Schwachstellen auf, stellen allerdings auch bereits viele hilfreiche Komponenten zur Verfügung. Auch die Thematik des Datenschutzes, welches bereits in der ersten Sitzung angesprochen wurde, wurde anhand der getesteten Applikationen diskutiert. Zum Teil wurden beispielsweise Daten über die NutzerInnen aufgenommen, die nicht unterbunden werden konnten.
 
 <small>Bilder: Daniel Münderlein, UTransForM</small>
+
+[![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo) [![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/) [![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
