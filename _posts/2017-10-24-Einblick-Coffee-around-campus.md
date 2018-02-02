@@ -14,7 +14,7 @@ Unter "Einblick" lassen wir euch an einigen interessanten Sitzungen des aktuelle
 
 ![Kaffee all the way](https://utransform.github.io/assets/images/coffeemap2.png "Käffchen gefällig?")
 
-Nun wisst ihr, wo es Kaffee gibt- wir konnten uns mit der App auseinandersetzen und uns über Probleme, Stärken und Schwächen der App austauschen.
+Nun wisst ihr, wo es Kaffee gibt- wir konnten uns mit der App auseinandersetzen und uns über Probleme, Stärken und Schwächen der App austauschen. Bis demnächst!
 
 
 
