@@ -7,9 +7,8 @@ permalink: /UTransForM/
 
 Letztes Update: 02.02.2018
 
-**NEU**  [Hier geht es zum Mapping Tool](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)  **NEU** 
+**NEU**  [Hier geht es zum Mapping Tool der Universität Kassel](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)  **NEU** 
 
-https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start
 
 Eine zunehmende Technologisierung der raumbezogenen Forschung muss sich auch in der Lehre und insbesondere in der forschenden Lehre wiederspiegeln.
 
