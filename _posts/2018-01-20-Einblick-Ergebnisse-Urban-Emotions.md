@@ -16,6 +16,10 @@ Die wirklich interessanten Karten kommen nun... sie zeigen deutliche Stresspeaks
 
 ![Walaa](https://utransform.github.io/assets/images/02b_Walaa.png "Stresspeaks Walaa")
 
+Die aufgezeichneten Videos und die GIS Daten werden im weiteren Projektverlauf noch eingehender betrachtet; hier für's erste aber schonmal Übersichtskarten. Was könnte an den extrem stressigen Orten wohl passiert sein, dass der Puls so in die Höhe schnellt? Bleibt gespannt und...
+
+**wir sehen uns beim Rundgang!
+
 
 
 
