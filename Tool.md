@@ -13,7 +13,10 @@ Die von uns genutzte Android App „GeoODK Collect“* erleichtert das mobile Er
 
 GeoODK Collect verfügt über diverse Möglichkeiten diese Daten (standortbasiert) aufzunehmen; auch die klassischen Fragebögen/Forms,  lassen sich hiermit gut kombinieren und implementieren. Die App, installiert auf Tablet oder Smartphone, ergänzt bzw. ersetzt Klemmbrett, Papier und Stift.Der Einsatz solch einer App lässt dem Forscher mehr Zeit für Auswertung und Analyse der Daten sowie die Beantwortung der Forschungsfrage, da die langwierige Transkription oder Digitalisierung der erhobenen Daten wegfällt. 
 
-Im aktuellen Wintersemester 17/18 sind im Rahmen des Projekts ausführliche Tutorials zur App entstanden [Klick](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)
+**WICHTIG**
+Im aktuellen Wintersemester 17/18 sind im Rahmen des Projekts ausführliche **Tutorials** zur App entstanden
+
+[Hier geht es zu den Tutorials](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)
 
 Im Sommersemester 2017 ließen Tests, verschiedener Datenerhebungs-Apps, Stärken und Schwächen der getesteten Applikationen sichtbar werden; GeoODK Collect bietet unter allen Apps durchweg praktikable Anwendungen (Stichwort Usability) und überzeugt durch die Möglichkeit die erhobenen Daten auf einem eigenen Aggregate Server speichern zu können (Stichwort Datenschutz). Da in Planung und Forschung etc.ständig neue Ansprüche an die mobile Datenerhebung gestellt werden, lässt sich die App durch den frei verfügbaren Open Source Quellcode selbstständig erweitern und modifizieren (umfassende Android Coding-Kenntnisse allerdings vorausgesetzt).
 
