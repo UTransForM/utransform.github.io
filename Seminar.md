@@ -19,3 +19,5 @@ So wurden praktische und theoretische Fragen zum Einsatz neuer Technologien disk
 
 Ziel ist es, in zwei Semestern ein Mapping-Tool zur georeferenzierten Datenerhebung für die Universität Kassel zu entwickeln. Dieses Seminar war ein Begleitseminar für ein Projekt, welches im aktuellen Wintersemester 2017/18 (Bring your own project- make it digital) stattfindet.
 
+[![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo) [![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/) [![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
+
