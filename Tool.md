@@ -5,7 +5,7 @@ subtitle: GeoODK -Alles mit einem Klick und auf einen Blick-
 permalink: /Tool/
 ---
 
-......................................................
+..............**NEU NEU NEU**..............
 
 [>>>> Dein direkter Weg zum ODK_Aggregate Server der Uni Kassel](https://vm193-139.its.uni-kassel.de/ODKAggregate/)
 
@@ -13,7 +13,7 @@ permalink: /Tool/
 
 [>>>> GeoODK Collect via Google Play](https://play.google.com/store/apps/details?id=com.geoodk.collect.android&hl=de)
 
-......................................................
+..............**NEU NEU NEU**..............
 
 **Zettelchaos?! War gestern!**
 
