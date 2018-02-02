@@ -15,6 +15,8 @@ Unter "Einblick" lassen wir euch an einigen interessanten Sitzungen des aktuelle
 ![Ergebnis und Fragebogen](https://github.com/UTransForM/utransform.github.io/blob/master/assets/images/coffeemap2.png
  "Ergebnis und Fragebogen")
 
+Nun wisst ihr, wo es Kaffee gibt- wir konnten uns mit der App auseinandersetzen und uns über Probleme, Stärken und Schwächen der App austauschen.
+
 
 
 
