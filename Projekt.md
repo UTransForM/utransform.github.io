@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projekt
-subtitle:
+subtitle: Bring your own project- make it digital
 permalink: /Projekt/
 ---
 # Was machen wir eigentlich? 
