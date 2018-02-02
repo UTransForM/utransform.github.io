@@ -29,6 +29,9 @@ Angedacht waren rund 60 Minuten; ein Testfahrer war jedoch schon nach 45 Minuten
 
 <small>Fotos: A. Freitag</small> 
 
+Die größten Probleme entstanden durch die Orientierung in der Stadt- wo führt der Weg her? Muss ich hier oder später abbiegen? Ein Verfahren ist nicht schlimm- die genaue Strecke wird aufgezeichnet und ist somit rückverfolgbar. Gleichzeitig auf den Verkehr und die Strecke achten- sehr anstregend. Ebenso gab es Probleme mit den Geräten und einer zu hohen Feuchtigkeit. Durch das regnerische und kalte Wetter waren wärme und dichte Jacken nötig- diese führten jedoch bei körperlicher Anstrengung dazu, dass sich die Klebepads vom Handgelenkssensor lösten und bei einem Probandem ab der Stadthalle keine Werte mehr lieferten. Auch war zwischendurch das GPS Signal nicht konstant- auch "professionelle" Geräte haben also ihre Schwachstellen. 
+
+Die Ergebnisse von der "gemütlichen" Radtour und Eindrücke vom Vortrag folgen im nächsten Beitrag. 
 
 [![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo) [![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/) [![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
 
