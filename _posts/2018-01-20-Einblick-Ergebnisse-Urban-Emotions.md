@@ -18,9 +18,9 @@ Die wirklich interessanten Karten kommen nun... sie zeigen deutliche Stresspeaks
 
 Die aufgezeichneten Videos und die GIS Daten werden im weiteren Projektverlauf noch eingehender betrachtet; hier für's erste aber schonmal Übersichtskarten. Was könnte an den extrem stressigen Orten wohl passiert sein, dass der Puls so in die Höhe schnellt? Bleibt gespannt und...
 
-**wir sehen uns beim Rundgang!
+**wir sehen uns beim Rundgang!** 
 
-
+HaFeKa, Projektraum, 1. Stock
 
 
 [![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo) [![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/) [![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
