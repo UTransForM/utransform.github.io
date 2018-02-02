@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seminar
-subtitle: Neue Technologien in der Raumforschung: Was bisher geschah...
+subtitle: Neue Technologien in der Raumforschung bzw. was bisher geschah
 permalink: /Seminar/
 ---
 
