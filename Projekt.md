@@ -4,15 +4,23 @@ title: Projekt
 subtitle:
 permalink: /Projekt/
 ---
+# Was machen wir eigentlich? 
 
-Georeferenzierte Daten zu erheben (kartieren) ist wichtiger Bestandteil stadt- und landschaftsplanerischer Praxis. In diesem Projekt werden wir mit den Studierenden nun an der Digitalisierung dieser Praxis arbeiten. 
-Statt mit Stift und Klemmbrett, werden wir eigene Daten mithilfe mobiler Endgeräte (Smartphone/Tablet) und einer App „mappen”.
-Im Laufe des Projekts werden wir die App GeoODK Collect kennenlernen und uns mit dem digitalen Mapping vertraut machen, d.h. den Forschungsprozess mit seinen Phasen Fragebogenerstellung, Datenerhebung mit mobilen Endgeräten sowie den Export und die Auswertung der Daten. 
-Gleichzeitig sollen die Studierenden eigene Forschungsprojekte entwickeln und durchführen, um die erworbenen Kompetenzen anzuwenden.
-Als Expert*innen für die App GeoODK werden wir außerdem Tutorials und Lehrmaterial zum Thema digitales Mapping erstellen und für die Nutzung der App in Lehre und Forschung werben, um die Digitalisierung der georeferenzierten Datenerhebung am Fachbereich voranzubringen.
+Update: 02.02.2018
+
+Georeferenzierte Daten zu erheben (Kartieren) ist wichtiger Bestandteil stadt- und landschaftsplanerischer Praxis. In diesem Projekt arbeiten wir an der Digitalisierung dieser Praxis. 
+Statt mit Stift und Klemmbrett, werden wir eigene Daten mithilfe mobiler Endgeräte (Smartphone/Tablet) und der Android App "GeoODK Collect" mappen.
+
+Wir, die Studierenden, haben innerhalb des Projekts  eigene Forschungsfragen- und designs entwickelt, welche wir mithilfe der App durchgeführt und ausgewertet haben. Die zahlreichen Ideen und Einsatzmöglichkeiten werden ab dem 06.02.2018 im Rahmen des Rundgangs den anderen Studierenden des Fachbereichs und der Uni vorgestellt. 
+
+Einen kleinen Einblick in den Projektalltag, sowie zahlreiche Infos rund um das Thema digitale Datenerhebung findet ihr in unserem [Blog](https://utransform.github.io/Blog)
+
+Gerade bei umfangreichen Haus- und Abschlussarbeiten bietet GeoODK eine echte Arbeitsersparnis in Sachen Datenaufnahme und Verarbeitung. So lässt die Nutzung der App den Forschenden mehr Zeit sich intensiv mit dem gewonnenen Material auseinanderzusetzen. Zudem wurde ein eigener Uni ODK-Aggregate Server für die sichere Aufbewahrung von erhobenen Daten erstellt. So können Zugangsberichtigte (Studenten und Lehrende der Universität Kassel) ihre Untersuchungen datenschutzgerecht speichern. Damit auch Einsteigern der Anfang mit GeoODK Collect gelingt, haben wir ein eigenes Wiki zur App erstellt. Ab sofort findet ihr es im Netz.
+
+**NEU**  [Hier geht es zum Wiki der App GeoODK](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)  **NEU** 
 
 <b>Ziele</b>
 
 <ol><li>Entwicklung und Durchführung eines eigenen Forschungsprojektes zu einem selbstgewählten Thema. Die Datenerhebung soll mit GeoODK erfolgen (einzeln oder in Kleingruppen).</li>
-<li> Erstellung von Materialien (z.B. Anleitungen), um anderen Lehrenden, Forschenden und Studierenden den Zugang zum digitalen Kartieren zu erleichtern. Bewerbung der App GeoODK, um seine Nutzung am Fachbereich zu verbreiten (in Arbeitsgruppen).</li></ol>
+<li> Erstellung von Materialien (z.B. Anleitungen), um anderen Lehrenden, Forschenden und Studierenden den Zugang zum digitalen Kartieren zu erleichtern. Bewerbung der App GeoODK, um seine Nutzung am Fachbereich zu verbreiten.</li></ol>
 
