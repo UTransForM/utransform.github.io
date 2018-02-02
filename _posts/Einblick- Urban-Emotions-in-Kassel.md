@@ -23,9 +23,11 @@ Um 14Uhr wurden Walaa und Mamoun verkabelt und an die Sensoren angeschlossen. Vi
 
 <small>Fotos: D. Münderlein</small> 
 
-Angedacht waren rund 60 Minuten; ein Testfahrer war jedoch schon nach 45 Minuten wieder da und ein anderer benötigte 1 1/2h. Hioer seht ihr ein paar Papparazzifotos; geschossen an der Stadthalle und an der neuen Mensa. 
+Angedacht waren rund 60 Minuten; ein Testfahrer war jedoch schon nach 45 Minuten wieder da und ein anderer benötigte 1 1/2h. Hier seht ihr ein paar Paparazzifotos; geschossen an der Stadthalle und der Mensa. 
 
 ![Währenddessen](https://utransform.github.io/assets/images/Ende_1.png "Unterwegs") 
+
+[![facebook](https://utransform.github.io/assets/images/icon_fb_50.png)](https://www.facebook.com/utransform.geo) [![instagram](https://utransform.github.io/assets/images/icon_insta_50.png)](https://www.instagram.com/utransform_/) [![twitter](https://utransform.github.io/assets/images/iicon_twitter_50.png)](https://twitter.com/_UTransForM)
 
 
 
