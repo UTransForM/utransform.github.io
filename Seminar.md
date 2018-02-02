@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Seminar
-subtitle: Neue Technologien in der Raumforschung
+subtitle: Neue Technologien in der Raumforschung: Was bisher geschah...
 permalink: /Seminar/
 ---
 
-Frei nach dem Motto: 'Weg mit dem Klemmbrett! Her mit dem Tablet!' werden wir im Sommersemester 2017 in diesem Seminar Studierende mit dem Einsatz mobiler Endgeräte zur Erhebung georeferenzierter Daten bekannt machen und uns mit den Vor- und Nachteilen verschiedener vorhandener Tools auseinandersetzten. So werden wir praktische und theoretische Fragen zum Einsatz neuer Technologien diskutieren und zusammen überlegen, wie man vorhandene Tools verbessern könnte. Durch eine Kooperation mit einem Informatiker werden wir im Seminar auch grundlegende Programmierkompetenzen vermitteln, die benötigt werden um vorhandene Tools anzupassen.
+Frei nach dem Motto: 'Weg mit dem Klemmbrett! Her mit dem Tablet!' wurden im Sommersemester 2017 in diesem Seminar Studierende mit dem Einsatz mobiler Endgeräte zur Erhebung georeferenzierter Daten bekannt gemacht und haben sich mit den Vor- und Nachteilen verschiedener  Tools auseinandersetzt. 
 
-Ziel ist es, in zwei Semestern ein Mapping-Tool zur georeferenzierten Datenerhebung für die Universität Kassel zu entwickeln. Dieses Seminar ist also ein Begleitseminar für ein Projekt, das im Wintersemester 2017/18 (Neue Technologien in der Raumforschung II) stattfinden wird.
+So wurden praktische und theoretische Fragen zum Einsatz neuer Technologien diskutiert und zusammen überlegt, wie man vorhandene Tools verbessern könnte. Durch eine Kooperation mit einem Informatiker wwurden im Seminar grundlegende Android/Java-Programmierkompetenzen vermittelt. Schnell stellte sich heraus, dass das nötige Fachwissen (um die Apps durch Coden an unsere Bedürfnisse anzupassen) über Jahre erworben und vertieft werden müsste; deshalb konzentrierten wir uns auf die GeoODK App,um diese durch Tutorials für alle Studierenden nutzbar zu machen. [>>>>> Hier geht es zum GeoODK Wiki](https://vm193-139.its.uni-kassel.de/dokuwiki/doku.php?id=start)
+Ziel war es, in zwei Semestern ein Mapping-Tool zur georeferenzierten Datenerhebung für die Universität Kassel zu entwickeln. Dieses Seminar war ein Begleitseminar für ein Projekt, welches im aktuellen Wintersemester 2017/18 (Neue Technologien in der Raumforschung II) stattfindet.
 
-Es sind keinerlei technischen Vorkenntnisse nötig, Interesse an digitalen Tools und die Motivation sich neue technische Fähigkeiten anzueignen wird allerdings erwartet.
-
-Das aktuelle Handbuch zu dem Seminar ist [hier als Download]({{ site.url }}/assets/downloads/Handbuch.pdf) verfügbar. Unter <a href="{{ '/Blog'}}">Blog</a> werden Updates aus dem Seminar veröffentlicht.
