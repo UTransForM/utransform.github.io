@@ -12,6 +12,7 @@ Unter "Einblick" lassen wir euch an einigen interessanten Sitzungen des aktuelle
 
 Über den Fragebogen und die Positionserfassung der App wurden Attribute wie Standort, Preise und Qualitätsmerkmale abgefragt. Innerhalb von 30 Minuten wurde das Gelände und seine Kaffeequellen erfasst, in die App geladen und zusammengeführt. Entstanden ist eine einfache Übersichtkarte, ausgegeben in einem GIS. 
 
+![Kaffee all the way](https://utransform.github.io/assets/images/coffeemap2.png "Käffchen gefällig?")
 
 Nun wisst ihr, wo es Kaffee gibt- wir konnten uns mit der App auseinandersetzen und uns über Probleme, Stärken und Schwächen der App austauschen.
 
